@@ -15,4 +15,9 @@ visit the txt
 >>>>>>> 443a4c31ad5661756127a869dbff521472bf0a30
 
 
+<<<<<<< HEAD
 visit again haha
+=======
+
+JR's 2nd change: 
+>>>>>>> fda2fcd7bab02066ce6533a1ca19a42729d5cf25
